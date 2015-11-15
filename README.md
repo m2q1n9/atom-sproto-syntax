@@ -5,7 +5,7 @@ atom-sproto-syntax
 [![](https://img.shields.io/apm/v/atom-sproto-syntax.svg?style=flat-square)](https://atom.io/packages/atom-sproto-syntax)
 [![](https://img.shields.io/apm/dm/atom-sproto-syntax.svg?style=flat-square)](https://atom.io/packages/atom-sproto-syntax)
 
-> a sproto syntax highlight for [atom](https://atom.io/)
+> a [sproto](https://github.com/cloudwu/sproto) syntax highlight for [atom](https://atom.io/)
 
 ![](https://raw.githubusercontent.com/m2q1n9/atom-sproto-syntax/master/test.png)
 
